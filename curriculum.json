@@ -95,14 +95,48 @@
       "title": "Documentación",
       "subtitle": "Permisos y documentos del vehículo",
       "subtitleEn": "Licences and vehicle documents",
-      "summaryEs": "Repasa el permiso de conducir, el permiso de circulación, la tarjeta ITV y el seguro obligatorio. Comprueba qué documento acredita cada cosa.",
+      "summaryEs": "Antes de circular, comprueba que tú estás autorizado para conducir, que el vehículo está documentado, que la ITV está vigente y que existe seguro obligatorio.",
       "summaryEn": "Review the driving licence, vehicle registration certificate, ITV inspection card and compulsory insurance. Know what each document proves.",
-      "summaryUk": "Повтори водійське посвідчення, реєстраційний документ автомобіля, картку ITV та обов’язкове страхування. Розумій, що підтверджує кожен документ.",
+      "summaryUk": "Перед поїздкою перевір: ти маєш право керувати, автомобіль має документи, ITV чинна, а обов’язкове страхування оформлене.",
       "outline": [
         "Permiso de conducir: tipos, puntos, conductores noveles y renovación",
         "Permiso de circulación y datos del vehículo",
         "Tarjeta ITV, inspecciones y resultados",
         "Seguro obligatorio de responsabilidad civil"
+      ],
+      "lessons": [
+        {
+          "title": "Cuatro conceptos, dos responsabilidades",
+          "titleUk": "Чотири поняття — дві відповідальності",
+          "textEs": "La documentación del tema se entiende mejor separando los documentos de la persona y los del vehículo. El permiso de conducir corresponde al conductor. El permiso de circulación y la tarjeta ITV corresponden al vehículo. El seguro obligatorio cubre la responsabilidad civil frente a terceros.",
+          "textUk": "Документи зручніше розділити на документи людини й автомобіля. Permiso de conducir належить водієві. Permiso de circulación і tarjeta ITV стосуються автомобіля. Обов’язкове страхування покриває цивільну відповідальність перед третіми особами.",
+          "rememberEs": "Conductor = permiso de conducir. Vehículo = permiso de circulación + tarjeta ITV. Seguro = responsabilidad civil frente a terceros.",
+          "rememberUk": "Водій = permiso de conducir. Авто = permiso de circulación + tarjeta ITV. Страхування = відповідальність перед третіми особами."
+        },
+        {
+          "title": "Qué debes llevar al conducir",
+          "titleUk": "Що потрібно мати під час керування",
+          "textEs": "La DGT indica que debes llevar el permiso de conducir, el permiso de circulación y la tarjeta ITV, todos en vigor. La documentación digital de miDGT es válida en España. No confundas los documentos oficiales de la aplicación con una simple fotografía o captura de pantalla.",
+          "textUk": "DGT вказує, що потрібно мати посвідчення водія, свідоцтво про реєстрацію та картку ITV — усі чинні. Цифрові документи в miDGT дійсні в Іспанії. Не плутай документи в офіційному застосунку зі звичайним фото чи скриншотом.",
+          "rememberEs": "Tres documentos: permiso de conducir, permiso de circulación y tarjeta ITV. El seguro debe estar vigente, pero no tienes que llevar el recibo del pago.",
+          "rememberUk": "Три документи: посвідчення водія, реєстраційний документ і картка ITV. Страхування має бути чинним, але квитанцію про оплату возити не потрібно."
+        },
+        {
+          "title": "ITV y seguro: no son lo mismo",
+          "titleUk": "ITV і страхування — різні речі",
+          "textEs": "La ITV comprueba el estado y las condiciones técnicas del vehículo. El seguro obligatorio cubre la responsabilidad civil por daños a terceros dentro de los límites legales. Tener seguro no sustituye la ITV, y superar la ITV no significa que el vehículo esté asegurado.",
+          "textUk": "ITV перевіряє технічний стан автомобіля. Обов’язкове страхування покриває цивільну відповідальність за шкоду третім особам у межах закону. Страхування не замінює ITV, а успішна ITV не означає, що автомобіль застрахований.",
+          "rememberEs": "ITV = estado técnico. Seguro = responsabilidad civil. Son obligaciones distintas.",
+          "rememberUk": "ITV = технічний стан. Seguro = цивільна відповідальність. Це різні обов’язки."
+        },
+        {
+          "title": "El permiso por puntos",
+          "titleUk": "Система водійських балів",
+          "textEs": "Los puntos están asociados al conductor, no a un vehículo ni a una categoría concreta. Según la DGT, los conductores noveles comienzan con 8 puntos. El saldo puede aumentar o disminuir según el comportamiento y las infracciones.",
+          "textUk": "Бали прив’язані до водія, а не до автомобіля чи окремої категорії посвідчення. За даними DGT, водії-початківці починають з 8 балів. Баланс може змінюватися залежно від поведінки та порушень.",
+          "rememberEs": "Los puntos son del conductor y son comunes a los permisos que tenga.",
+          "rememberUk": "Бали належать водієві та є спільними для його посвідчень."
+        }
       ]
     },
     {
@@ -119,6 +153,66 @@
         "Alcohol, drogas, enfermedades y medicamentos",
         "Alimentación y ropa adecuada",
         "Distracciones: fumar, móvil y navegador GPS"
+      ],
+      "source": "Manual del Permiso B en Lectura Fácil, DGT/ETRASA, edición corregida octubre de 2024, Tema 3, pp. 42–66 del manual. Actualizaciones legales contrastadas por separado con DGT (noviembre de 2026).",
+      "status": "Tema ampliado desde el PDF aportado. Las tasas y reglas legales variables se muestran como actualización DGT separada del manual 2024.",
+      "lessons": [
+        {
+          "title": "Estado físico y psicológico del conductor",
+          "titleUk": "Фізичний і психологічний стан водія",
+          "textEs": "Para conducir con seguridad necesitas estar en buenas condiciones físicas y psicológicas. La vista aporta gran parte de la información: señales, estado de la vía, distancias y velocidad de otros vehículos. También influyen el estado de ánimo, la atención y el tiempo de reacción.",
+          "textUk": "Для безпечного керування потрібен належний фізичний і психологічний стан. Зір дає значну частину інформації: знаки, стан дороги, відстані та швидкість інших авто. Також впливають настрій, увага й час реакції.",
+          "rememberEs": "Tiempo de reacción = tiempo entre percibir un estímulo y responder. La fatiga, el sueño, el alcohol, las drogas, algunas enfermedades y medicamentos pueden aumentarlo.",
+          "rememberUk": "Час реакції — проміжок між сприйняттям сигналу та відповіддю. Втома, сонливість, алкоголь, наркотики, деякі хвороби й ліки можуть його збільшувати."
+        },
+        {
+          "title": "Fatiga: señales y causas",
+          "titleUk": "Втома: ознаки та причини",
+          "textEs": "La fatiga puede ser física o psicológica. Puede aparecer por conducir mucho tiempo, descansar poco, circular con tráfico intenso, mal tiempo, mala iluminación, ruido, calor o una postura incómoda. Sus señales incluyen dificultad para concentrarse, ojos pesados, visión peor, movimientos lentos, irritabilidad y más tiempo para reaccionar.",
+          "textUk": "Втома буває фізичною або психологічною. Її спричиняють тривале керування, недостатній відпочинок, інтенсивний рух, погана погода, слабке освітлення, шум, спека чи незручна поза. Ознаки: складно зосередитися, важкі повіки, погіршення зору, повільні рухи, дратівливість і довша реакція.",
+          "rememberEs": "Si aparecen síntomas de fatiga, no intentes vencerlos aumentando la velocidad o la música: detente en un lugar seguro y descansa.",
+          "rememberUk": "Якщо з’явилися ознаки втоми, не намагайся подолати їх швидкістю чи гучною музикою: зупинись у безпечному місці та відпочинь."
+        },
+        {
+          "title": "Somnolencia y descanso",
+          "titleUk": "Сонливість і відпочинок",
+          "textEs": "La somnolencia puede provocar un accidente antes de que el conductor llegue a dormirse por completo. Bostezos frecuentes, visión borrosa, dificultad para mantener los ojos abiertos, perder el hilo del recorrido o desviarse del carril son señales de peligro. El manual recomienda parar y dormir 20–30 minutos cuando aparezcan síntomas y hacer pausas de 20–30 minutos cada dos horas o 200 km.",
+          "textUk": "Сонливість може спричинити ДТП ще до того, як водій повністю засне. Часте позіхання, розмитий зір, важко тримати очі відкритими, не пам’ятаєш останні кілометри або виїжджаєш зі смуги — небезпечні ознаки. Посібник радить зупинитися й поспати 20–30 хвилин за появи симптомів, а також робити перерви 20–30 хвилин кожні дві години або 200 км.",
+          "rememberEs": "Actualización DGT: interrumpe la conducción cada 2 horas o 200 km con pausas de al menos 20–30 minutos; si tienes sueño, para antes. Café o té no sustituyen dormir y pueden producir efecto rebote.",
+          "rememberUk": "Оновлення DGT: переривай керування кожні 2 години або 200 км щонайменше на 20–30 хвилин; якщо хочеться спати — зупинись раніше. Кава чи чай не замінюють сон і можуть спричинити зворотний ефект."
+        },
+        {
+          "title": "Alcohol y conducción",
+          "titleUk": "Алкоголь і керування",
+          "textEs": "El alcohol afecta al cerebro y a la vista: empeora la percepción de distancias, la coordinación y la toma de decisiones, aumenta el tiempo de reacción y puede generar una falsa sensación de seguridad. La tasa se expresa en gramos por litro de sangre (g/l) o miligramos por litro de aire espirado (mg/l).",
+          "textUk": "Алкоголь впливає на мозок і зір: погіршує оцінку відстаней, координацію та ухвалення рішень, збільшує час реакції й може створити хибне відчуття впевненості. Показник вимірюють у грамах на літр крові (г/л) або міліграмах на літр видихуваного повітря (мг/л).",
+          "rememberEs": "Actualización DGT consultada en noviembre de 2026: límite general 0,25 mg/l en aire (0,5 g/l en sangre); conductores noveles durante los dos primeros años y profesionales: 0,15 mg/l (0,3 g/l). Para menores de edad: 0,0. La recomendación segura de la DGT es 0,0 si vas a conducir.",
+          "rememberUk": "Оновлення DGT, перевірене в листопаді 2026: загальна межа — 0,25 мг/л у видиху (0,5 г/л крові); для водіїв зі стажем до двох років і професійних водіїв — 0,15 мг/л (0,3 г/л). Для неповнолітніх — 0,0. Безпечна рекомендація DGT — 0,0 перед керуванням."
+        },
+        {
+          "title": "Drogas, enfermedades y medicamentos",
+          "titleUk": "Наркотики, хвороби та ліки",
+          "textEs": "Las drogas pueden alterar la percepción, la atención, los reflejos, la coordinación y el comportamiento. Algunas enfermedades y medicamentos también reducen la capacidad para conducir; pueden producir sueño, mareos, visión borrosa o falta de concentración. Consulta al médico o farmacéutico y revisa el prospecto antes de conducir. No conduzcas si notas efectos que te incapacitan.",
+          "textUk": "Наркотики можуть змінювати сприйняття, увагу, рефлекси, координацію та поведінку. Деякі хвороби й ліки також знижують здатність керувати: можуть викликати сонливість, запаморочення, затуманення зору або проблеми з концентрацією. Порадься з лікарем або фармацевтом і перевір інструкцію перед керуванням. Не сідай за кермо, якщо відчуваєш небезпечні побічні ефекти.",
+          "rememberEs": "La DGT advierte especialmente sobre medicamentos sedantes, antihistamínicos, algunos antidepresivos y fármacos para la ansiedad. No suspendas un tratamiento por tu cuenta: consulta al profesional sanitario.",
+          "rememberUk": "DGT особливо застерігає щодо седативних препаратів, антигістамінних, деяких антидепресантів і ліків від тривоги. Не припиняй лікування самостійно — звернись до медичного фахівця."
+        },
+        {
+          "title": "Alimentación y ropa adecuada",
+          "titleUk": "Харчування та відповідний одяг",
+          "textEs": "Las comidas muy abundantes o difíciles de digerir pueden causar sueño y fatiga; comer demasiado poco puede provocar mareos. El manual recomienda comidas ligeras y mantener una buena hidratación. La ropa debe permitir moverse con libertad; el calzado debe ser cómodo y ligero para manejar los pedales. Evita conducir con chanclas, tacones o suelas muy gruesas.",
+          "textUk": "Дуже рясна або важка їжа може викликати сонливість і втому; надто мала кількість їжі — запаморочення. Посібник рекомендує легкі прийоми їжі та достатню гідратацію. Одяг не повинен обмежувати рухи; взуття має бути зручним і легким для роботи педалями. Уникай керування у шльопанцях, на підборах або взутті з дуже товстою підошвою.",
+          "rememberEs": "Antes de arrancar, quítate el abrigo voluminoso y comprueba que puedes mover las piernas y accionar todos los pedales sin dificultad.",
+          "rememberUk": "Перед початком руху зніми об’ємний верхній одяг і перевір, що можеш вільно рухати ногами та натискати всі педалі."
+        },
+        {
+          "title": "Distracciones: móvil, navegador y fumar",
+          "titleUk": "Відволікання: телефон, навігатор і куріння",
+          "textEs": "Una distracción aparta la atención de la conducción. El manual incluye fumar, manipular el teléfono y manejar el navegador GPS. Preparar la ruta antes de salir y configurar el navegador con el vehículo detenido reduce la necesidad de manipularlo en marcha. Mantén la atención en la vía y evita cualquier actividad que te haga apartar la vista o las manos.",
+          "textUk": "Відволікання відбирає увагу від керування. Посібник згадує куріння, користування телефоном і налаштування GPS. Якщо підготувати маршрут заздалегідь і налаштувати навігатор до початку руху, не доведеться ним маніпулювати в дорозі. Стеж за дорогою й уникай дій, що відволікають очі або руки.",
+          "rememberEs": "La conducción exige atención continua. Si necesitas modificar la ruta o atender una llamada, detente primero en un lugar seguro.",
+          "rememberUk": "Керування вимагає постійної уваги. Якщо потрібно змінити маршрут або відповісти на дзвінок, спочатку безпечно зупинись."
+        }
       ]
     },
     {
@@ -365,18 +459,6 @@
     }
   ],
   "questions": [
-    {
-      "topic": 2,
-      "question": "¿Qué documento acredita que un vehículo está autorizado a circular?",
-      "options": [
-        "El permiso de circulación",
-        "El recibo de una compra",
-        "El permiso de conducir del acompañante"
-      ],
-      "correct": 0,
-      "explanationEs": "El permiso de circulación identifica el vehículo y acredita su autorización administrativa para circular.",
-      "explanationUk": "Свідоцтво про реєстрацію транспортного засобу підтверджує його адміністративний допуск до руху."
-    },
     {
       "topic": 3,
       "question": "Si un medicamento puede causar somnolencia, ¿qué debes hacer?",
@@ -688,6 +770,253 @@
       "correct": 0,
       "explanationEs": "El manual define al conductor habitual como quien suele conducir aunque no sea titular; necesita el permiso adecuado y autorización del titular.",
       "explanationUk": "Посібник визначає звичайного водія як того, хто регулярно керує транспортом, навіть якщо не є власником; потрібні відповідне посвідчення й дозвіл власника."
+    },
+    {
+      "topic": 2,
+      "question": "Va a conducir su turismo por una vía pública. ¿Qué documentación debe llevar consigo?",
+      "options": [
+        "El permiso de conducir, el permiso de circulación y la tarjeta ITV.",
+        "El permiso de conducir y la póliza del seguro, únicamente.",
+        "El permiso de circulación y el recibo del seguro, únicamente."
+      ],
+      "correct": 0,
+      "explanationEs": "La DGT indica que deben llevarse el permiso de conducir, el permiso de circulación y la tarjeta de inspección técnica, todos en vigor.",
+      "explanationUk": "La DGT вказує мати посвідчення водія, свідоцтво про реєстрацію та картку ITV — усі чинні.",
+      "source": "DGT / Manual Permiso B; normativa vigente consultada"
+    },
+    {
+      "topic": 2,
+      "question": "¿Qué acredita principalmente el permiso de circulación de un turismo?",
+      "options": [
+        "Que su titular ha superado el reconocimiento médico.",
+        "Que el vehículo está matriculado y autorizado administrativamente para circular.",
+        "Que el vehículo ha superado la última inspección ITV."
+      ],
+      "correct": 1,
+      "explanationEs": "El permiso de circulación identifica el vehículo y acredita su autorización administrativa para circular. La ITV acredita el resultado de la inspección técnica.",
+      "explanationUk": "Permiso de circulación ідентифікує автомобіль та підтверджує його адміністративний допуск до руху. ITV стосується технічного огляду.",
+      "source": "DGT / Manual Permiso B; normativa vigente consultada"
+    },
+    {
+      "topic": 2,
+      "question": "La tarjeta ITV de un vehículo sirve para…",
+      "options": [
+        "Acreditar las inspecciones técnicas y recoger datos técnicos del vehículo.",
+        "Demostrar que el conductor está autorizado para conducirlo.",
+        "Acreditar que el vehículo está asegurado frente a terceros."
+      ],
+      "correct": 0,
+      "explanationEs": "La tarjeta ITV recoge características técnicas del vehículo y los datos de sus inspecciones.",
+      "explanationUk": "Картка ITV містить технічні характеристики автомобіля та відомості про його огляди.",
+      "source": "DGT / Manual Permiso B; normativa vigente consultada"
+    },
+    {
+      "topic": 2,
+      "question": "Un turismo tiene la ITV caducada. ¿Puede circular normalmente?",
+      "options": [
+        "Sí, si el vehículo funciona correctamente.",
+        "Sí, si lleva el justificante de haber pedido cita.",
+        "No, debe tener la inspección en vigor para circular."
+      ],
+      "correct": 2,
+      "explanationEs": "La inspección debe estar vigente. Haber solicitado cita o que el vehículo parezca funcionar bien no sustituye una ITV en vigor.",
+      "explanationUk": "Техогляд має бути чинним. Запис на ITV або справний вигляд автомобіля не замінюють чинний огляд.",
+      "source": "DGT / Manual Permiso B; normativa vigente consultada"
+    },
+    {
+      "topic": 2,
+      "question": "El seguro obligatorio de responsabilidad civil cubre, dentro de los límites legales…",
+      "options": [
+        "Los daños propios del vehículo asegurado en cualquier accidente.",
+        "La responsabilidad por los daños causados a terceros.",
+        "Todas las averías mecánicas del vehículo asegurado."
+      ],
+      "correct": 1,
+      "explanationEs": "El seguro obligatorio cubre la responsabilidad civil por daños a terceros en los términos y límites establecidos legalmente; no es un seguro a todo riesgo.",
+      "explanationUk": "Обов’язкове страхування покриває цивільну відповідальність за шкоду третім особам у межах закону; це не повне страхування власного авто.",
+      "source": "DGT / Manual Permiso B; normativa vigente consultada"
+    },
+    {
+      "topic": 2,
+      "question": "¿Es obligatorio llevar en el vehículo el recibo del último pago del seguro?",
+      "options": [
+        "Sí, junto con el permiso de circulación.",
+        "No, aunque el vehículo debe estar asegurado.",
+        "Solo cuando el vehículo tiene más de diez años."
+      ],
+      "correct": 1,
+      "explanationEs": "La obligación es que el vehículo esté asegurado. La DGT no exige llevar físicamente la póliza ni el recibo del último pago.",
+      "explanationUk": "Автомобіль повинен бути застрахований, але DGT не вимагає фізично возити поліс або квитанцію останнього платежу.",
+      "source": "DGT / Manual Permiso B; normativa vigente consultada"
+    },
+    {
+      "topic": 2,
+      "question": "¿Qué documento acredita que una persona está habilitada para conducir un turismo de la categoría correspondiente?",
+      "options": [
+        "El permiso de circulación.",
+        "La tarjeta ITV.",
+        "El permiso de conducir."
+      ],
+      "correct": 2,
+      "explanationEs": "El permiso de conducir acredita la autorización personal para conducir vehículos de las categorías que incluye.",
+      "explanationUk": "Посвідчення водія підтверджує особистий дозвіл керувати транспортом відповідних категорій.",
+      "source": "DGT / Manual Permiso B; normativa vigente consultada"
+    },
+    {
+      "topic": 2,
+      "question": "Un agente le solicita la documentación durante un control. ¿Qué debe presentar?",
+      "options": [
+        "Los documentos exigibles en vigor, en formato físico o mediante miDGT cuando sea válido en España.",
+        "Una fotografía de los documentos guardada en la galería del móvil.",
+        "Únicamente el documento nacional de identidad."
+      ],
+      "correct": 0,
+      "explanationEs": "La DGT reconoce la validez en España de la documentación digital disponible en miDGT. Una simple fotografía guardada en el móvil no equivale a la documentación oficial de la app.",
+      "explanationUk": "DGT визнає в Іспанії цифрові документи в miDGT. Звичайне фото в галереї не є рівнозначним офіційному документу в застосунку.",
+      "source": "DGT / Manual Permiso B; normativa vigente consultada"
+    },
+    {
+      "topic": 2,
+      "question": "Un conductor novel obtiene por primera vez el permiso. ¿Con cuántos puntos comienza, según la DGT?",
+      "options": [
+        "Con 8 puntos.",
+        "Con 10 puntos.",
+        "Con 12 puntos."
+      ],
+      "correct": 0,
+      "explanationEs": "La DGT establece un saldo inicial de 8 puntos para los conductores noveles.",
+      "explanationUk": "За правилами DGT водій-початківець починає з 8 балів.",
+      "source": "DGT / Manual Permiso B; normativa vigente consultada"
+    },
+    {
+      "topic": 3,
+      "question": "Lleva varias horas conduciendo y empieza a notar los ojos pesados y dificultad para concentrarse. ¿Qué debe hacer?",
+      "options": [
+        "Aumentar la velocidad para llegar antes.",
+        "Detenerse en un lugar seguro y descansar.",
+        "Abrir la ventanilla y continuar sin parar."
+      ],
+      "correct": 1,
+      "explanationEs": "Los ojos pesados y la falta de concentración son señales de fatiga. Debe parar en un lugar seguro y descansar.",
+      "explanationUk": "Важкі повіки й проблеми з концентрацією — ознаки втоми. Потрібно безпечно зупинитися та відпочити.",
+      "source": "Manual DGT, Tema 3, pp. 42–66; actualización DGT consultada en noviembre de 2026. Pregunta original de práctica, no oficial."
+    },
+    {
+      "topic": 3,
+      "question": "En un viaje largo, ¿qué pausa recomienda la DGT como norma general para prevenir la somnolencia?",
+      "options": [
+        "Cada 2 horas o 200 km, con una pausa de al menos 20–30 minutos.",
+        "Solo cuando el vehículo necesita combustible.",
+        "Una pausa de 5 minutos cada 4 horas."
+      ],
+      "correct": 0,
+      "explanationEs": "La DGT recomienda interrumpir la conducción cada 2 horas o 200 km y hacer pausas de al menos 20–30 minutos. Si aparece sueño, hay que parar antes.",
+      "explanationUk": "DGT рекомендує переривати керування кожні 2 години або 200 км і робити перерву щонайменше 20–30 хвилин. Якщо з’являється сонливість — зупинитися раніше.",
+      "source": "Manual DGT, Tema 3, pp. 42–66; actualización DGT consultada en noviembre de 2026. Pregunta original de práctica, no oficial."
+    },
+    {
+      "topic": 3,
+      "question": "Al conducir de madrugada, comienza a bostezar repetidamente y ve borroso. ¿Cuál es la conducta más segura?",
+      "options": [
+        "Tomar café y seguir hasta el destino.",
+        "Poner música alta y continuar.",
+        "Parar en un lugar seguro y descansar o dormir."
+      ],
+      "correct": 2,
+      "explanationEs": "Los bostezos frecuentes y la visión borrosa son síntomas de somnolencia. El café no sustituye el descanso.",
+      "explanationUk": "Часте позіхання й розмитий зір — симптоми сонливості. Кава не замінює відпочинок.",
+      "source": "Manual DGT, Tema 3, pp. 42–66; actualización DGT consultada en noviembre de 2026. Pregunta original de práctica, no oficial."
+    },
+    {
+      "topic": 3,
+      "question": "Un conductor novel, durante sus dos primeros años de permiso, ¿qué tasa máxima general de alcohol puede presentar en aire espirado?",
+      "options": [
+        "0,25 mg/l.",
+        "0,15 mg/l.",
+        "0,50 mg/l."
+      ],
+      "correct": 1,
+      "explanationEs": "La tasa máxima para conductores noveles durante los dos primeros años es 0,15 mg/l en aire espirado (0,3 g/l en sangre). La recomendación segura es no beber si se va a conducir.",
+      "explanationUk": "Для водіїв-початківців протягом перших двох років межа — 0,15 мг/л у видиху (0,3 г/л крові). Найбезпечніше — не вживати алкоголь перед керуванням.",
+      "source": "Manual DGT, Tema 3, pp. 42–66; actualización DGT consultada en noviembre de 2026. Pregunta original de práctica, no oficial."
+    },
+    {
+      "topic": 3,
+      "question": "¿Cuál es el efecto del alcohol sobre la conducción?",
+      "options": [
+        "Mejora la percepción de las distancias.",
+        "Reduce el tiempo necesario para reaccionar.",
+        "Puede alterar la visión, la coordinación y la toma de decisiones."
+      ],
+      "correct": 2,
+      "explanationEs": "El alcohol afecta a capacidades esenciales: visión, coordinación, percepción y decisiones; además aumenta el tiempo de reacción.",
+      "explanationUk": "Алкоголь погіршує зір, координацію, сприйняття й ухвалення рішень, а також збільшує час реакції.",
+      "source": "Manual DGT, Tema 3, pp. 42–66; actualización DGT consultada en noviembre de 2026. Pregunta original de práctica, no oficial."
+    },
+    {
+      "topic": 3,
+      "question": "Ha tomado un medicamento para la alergia y nota sueño. ¿Qué debe hacer antes de conducir?",
+      "options": [
+        "Conducir despacio, porque los medicamentos nunca afectan.",
+        "Consultar las indicaciones sanitarias y no conducir si el medicamento produce somnolencia.",
+        "Tomar café para anular el efecto."
+      ],
+      "correct": 1,
+      "explanationEs": "Algunos antihistamínicos producen somnolencia. Consulte al profesional sanitario y evite conducir bajo sus efectos.",
+      "explanationUk": "Деякі антигістамінні препарати викликають сонливість. Порадься з медичним фахівцем і не керуй під їхнім впливом.",
+      "source": "Manual DGT, Tema 3, pp. 42–66; actualización DGT consultada en noviembre de 2026. Pregunta original de práctica, no oficial."
+    },
+    {
+      "topic": 3,
+      "question": "Después de una comida muy abundante, ¿qué puede ocurrir durante la conducción?",
+      "options": [
+        "Puede aparecer sueño y fatiga.",
+        "Mejora siempre la atención.",
+        "Disminuye el tiempo de reacción."
+      ],
+      "correct": 0,
+      "explanationEs": "Las comidas copiosas o difíciles de digerir pueden favorecer la somnolencia y la fatiga.",
+      "explanationUk": "Рясна або важка їжа може сприяти сонливості та втомі.",
+      "source": "Manual DGT, Tema 3, pp. 42–66; actualización DGT consultada en noviembre de 2026. Pregunta original de práctica, no oficial."
+    },
+    {
+      "topic": 3,
+      "question": "¿Qué calzado es más adecuado para conducir un turismo?",
+      "options": [
+        "Chanclas sueltas.",
+        "Zapatos cómodos y ligeros que permitan accionar bien los pedales.",
+        "Zapatos con tacón alto y suela gruesa."
+      ],
+      "correct": 1,
+      "explanationEs": "El calzado debe ser cómodo y permitir manejar los pedales con precisión. Chanclas, tacones y suelas muy gruesas no son aconsejables.",
+      "explanationUk": "Взуття має бути зручним і дозволяти точно натискати педалі. Шльопанці, підбори й дуже товста підошва не рекомендовані.",
+      "source": "Manual DGT, Tema 3, pp. 42–66; actualización DGT consultada en noviembre de 2026. Pregunta original de práctica, no oficial."
+    },
+    {
+      "topic": 3,
+      "question": "Mientras circula, necesita cambiar el destino en el navegador GPS. ¿Qué debe hacer?",
+      "options": [
+        "Manipularlo mientras conduce, mirando brevemente la pantalla.",
+        "Pedir al acompañante que lo ajuste o detenerse en un lugar seguro.",
+        "Sujetar el móvil con una mano y escribir la dirección."
+      ],
+      "correct": 1,
+      "explanationEs": "Manipular dispositivos desvía la atención. Lo seguro es que lo gestione el acompañante o detenerse antes en un lugar seguro.",
+      "explanationUk": "Маніпуляції з пристроями відволікають. Безпечно доручити це пасажиру або спочатку зупинитися в безпечному місці.",
+      "source": "Manual DGT, Tema 3, pp. 42–66; actualización DGT consultada en noviembre de 2026. Pregunta original de práctica, no oficial."
+    },
+    {
+      "topic": 3,
+      "question": "Un conductor ha consumido drogas y todavía hay presencia de la sustancia en su organismo. ¿Puede conducir?",
+      "options": [
+        "Sí, si se siente capaz.",
+        "Sí, si conduce por una vía urbana.",
+        "No, está prohibido conducir con presencia de drogas en el organismo, salvo las excepciones legales para sustancias prescritas que no afecten a la conducción."
+      ],
+      "correct": 2,
+      "explanationEs": "La presencia de drogas en el organismo es sancionable. No se debe conducir bajo sus efectos; los medicamentos prescritos requieren valoración sanitaria y no deben afectar a la conducción.",
+      "explanationUk": "Наявність наркотичних речовин в організмі карається. Не можна керувати під їхнім впливом; щодо призначених ліків потрібна медична оцінка, і вони не повинні погіршувати керування.",
+      "source": "Manual DGT, Tema 3, pp. 42–66; actualización DGT consultada en noviembre de 2026. Pregunta original de práctica, no oficial."
     }
   ]
 }

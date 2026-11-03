@@ -1,10 +1,10 @@
 {
-  "name": "Permiso B Quest — DGT",
+  "name": "Permiso B Quest",
   "short_name": "Permiso B",
-  "start_url": "./index.html",
+  "start_url": "./",
   "display": "standalone",
-  "background_color": "#f6f8fb",
-  "theme_color": "#58cc02",
+  "background_color": "#f2f6fa",
+  "theme_color": "#10243a",
   "lang": "es",
   "description": "Aprende teoría DGT Permiso B con lecciones y práctica gamificada."
 }
