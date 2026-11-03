@@ -1,0 +1,693 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "Definiciones",
+      "subtitle": "Vehículos y personas en la vía",
+      "subtitleEn": "Vehicles and road users",
+      "summaryEs": "Пояснює типи транспортних засобів та учасників руху: conductor, peatón, titular y conductor habitual.",
+      "summaryEn": "Distinguish vehicles without motor, motor vehicles and other motorized vehicles; identify the driver, pedestrian, vehicle owner and usual driver.",
+      "summaryUk": "Розрізняй транспорт без двигуна, моторні транспортні засоби й інші моторизовані засоби. Вивчи поняття водія, пішохода, власника та звичайного водія.",
+      "outline": [
+        "Vehículos sin motor",
+        "Vehículos a motor y otros vehículos con motor",
+        "Conductor, peatón, titular del vehículo y conductor habitual"
+      ],
+      "source": "Manual del Permiso B en Lectura Fácil, DGT/ETRASA, edición corregida octubre de 2024, Tema 1, pp. 5–25 del manual.",
+      "status": "Contenido didáctico basado en el PDF; los puntos marcados como actualización deben verificarse antes del examen.",
+      "lessons": [
+        {
+          "title": "¿Qué es un vehículo?",
+          "titleUk": "Що таке транспортний засіб?",
+          "textEs": "Un vehículo es un aparato preparado para circular por vías, calles, carreteras y terrenos de todo tipo. El manual organiza los vehículos en tres grupos: vehículos sin motor, vehículos a motor y otros vehículos con motor.",
+          "textUk": "Транспортний засіб — це пристрій, призначений для руху дорогами, вулицями, автошляхами та різними типами місцевості. Посібник поділяє транспорт на три групи: без двигуна, моторні транспортні засоби та інші засоби з двигуном.",
+          "rememberEs": "Aprende primero la clasificación general; después identifica ejemplos de cada grupo.",
+          "rememberUk": "Спочатку запам’ятай загальну класифікацію, а потім приклади кожної групи."
+        },
+        {
+          "title": "Vehículos sin motor",
+          "titleUk": "Транспорт без двигуна",
+          "textEs": "El manual incluye los vehículos arrastrados por animales, los ciclos y bicicletas, los remolques y los semirremolques. Un ciclo tiene dos o más ruedas y se mueve por la energía y el impulso de quien lo conduce. La bicicleta es un ciclo de dos ruedas.",
+          "textUk": "Посібник відносить до цієї групи транспорт, який тягнуть тварини, цикли й велосипеди, причепи та напівпричепи. Цикл має два або більше коліс і рухається завдяки енергії та зусиллю людини, яка ним керує. Велосипед — це двоколісний цикл.",
+          "rememberEs": "Remolque: se engancha mediante un eje. Semirremolque: se une directamente al vehículo tractor, sin eje propio según la explicación del manual.",
+          "rememberUk": "Причіп: з’єднується через вісь. Напівпричіп: за поясненням посібника, приєднується безпосередньо до тягача без власної осі."
+        },
+        {
+          "title": "Remolque y semirremolque",
+          "titleUk": "Причіп і напівпричіп",
+          "textEs": "El manual distingue remolques ligeros y no ligeros por su masa con carga: hasta 750 kg como máximo para el ligero; más de 750 kg para el pesado. Presenta también semirremolques ligeros y no ligeros con ese mismo umbral en la explicación del capítulo.",
+          "textUk": "Посібник розрізняє легкі та важкі причепи за масою з вантажем: максимум 750 кг для легкого; понад 750 кг для важкого. У цьому розділі такий самий поріг наведено для легких і нелегких напівпричепів.",
+          "rememberEs": "Este resumen reproduce la clasificación didáctica del PDF. Para masas autorizadas y permisos, comprueba siempre la normativa vigente y la documentación del vehículo.",
+          "rememberUk": "Цей підсумок відтворює навчальну класифікацію PDF. Для дозволеної маси й потрібної категорії посвідчення перевіряй чинні правила та документи транспортного засобу."
+        },
+        {
+          "title": "Vehículos a motor",
+          "titleUk": "Моторні транспортні засоби",
+          "textEs": "Según el manual, los vehículos a motor necesitan un motor para funcionar. Se clasifican en automóviles, destinados a transportar personas o cosas y también a mover o arrastrar otros vehículos, y vehículos especiales, destinados a trabajos o servicios determinados.",
+          "textUk": "За посібником, моторні транспортні засоби потребують двигуна для роботи. Вони поділяються на автомобілі, призначені для перевезення людей або речей, а також для переміщення чи буксирування інших транспортних засобів, і спеціальні транспортні засоби для певних робіт або послуг.",
+          "rememberEs": "Ejemplos de automóviles que aparecen en el manual: motocicleta, turismo, pick-up, autobús, camión, furgoneta y tractocamión.",
+          "rememberUk": "Приклади автомобілів у посібнику: мотоцикл, легковий автомобіль, пікап, автобус, вантажівка, фургон і тягач."
+        },
+        {
+          "title": "Tipos de automóviles",
+          "titleUk": "Типи автомобілів",
+          "textEs": "El turismo transporta personas y tiene al menos cuatro ruedas y como máximo nueve asientos contando el del conductor. El derivado de turismo tiene carrocería de turismo pero se destina a mercancías y solo tiene una fila de asientos. En el vehículo mixto adaptable los asientos pueden ponerse o quitarse.",
+          "textUk": "Легковий автомобіль перевозить людей, має щонайменше чотири колеса й максимум дев’ять місць разом із місцем водія. Фургон на базі легкового автомобіля має кузов легкового авто, але призначений для вантажів і має лише один ряд сидінь. У багатоцільовому транспортному засобі сидіння можна встановлювати або знімати.",
+          "rememberEs": "Autobús/autocar: más de nueve asientos para personas y equipaje. Camión: transporte de mercancías, con cabina y parte trasera diferenciadas según el manual.",
+          "rememberUk": "Автобус: понад дев’ять місць для людей і багажу. Вантажівка призначена для вантажів; у посібнику кабіна й задня частина описані як окремі частини."
+        },
+        {
+          "title": "Otros vehículos con motor",
+          "titleUk": "Інші транспортні засоби з двигуном",
+          "textEs": "El manual separa algunos vehículos con motor que no considera vehículos a motor dentro de su clasificación: tranvía, ciclomotor, vehículos para personas de movilidad reducida, bicicletas de pedales con motor y vehículos de movilidad personal.",
+          "textUk": "Посібник окремо виділяє деякі засоби з двигуном, які в його класифікації не відносить до моторних транспортних засобів: трамвай, мопед, транспорт для людей з обмеженою мобільністю, велосипеди з педалями й двигуном та персональні засоби мобільності.",
+          "rememberEs": "El tranvía circula por raíles colocados en la calle o carretera. El ciclomotor descrito en el manual puede tener dos, tres o cuatro ruedas y una velocidad máxima de 45 km/h.",
+          "rememberUk": "Трамвай рухається рейками, прокладеними на вулиці або дорозі. Мопед у посібнику може мати два, три або чотири колеса й максимальну швидкість 45 км/год."
+        },
+        {
+          "title": "Ciclomotor, movilidad reducida y VMP",
+          "titleUk": "Мопед, транспорт для людей з обмеженою мобільністю та VMP",
+          "textEs": "El PDF describe los vehículos para personas de movilidad reducida con una velocidad máxima de 45 km/h y una masa máxima de 350 kg. Describe los VMP como vehículos eléctricos de una plaza con velocidad de diseño entre 6 y 25 km/h; pone como ejemplo el patinete eléctrico.",
+          "textUk": "PDF описує транспорт для людей з обмеженою мобільністю з максимальною швидкістю 45 км/год і максимальною масою 350 кг. VMP описано як електричний транспорт для однієї людини з конструктивною швидкістю від 6 до 25 км/год; приклад — електросамокат.",
+          "rememberEs": "Actualización oficial separada (DGT, consultada en noviembre de 2026): la DGT indica que los VMP deben tener certificado de inscripción y etiqueta identificativa para circular. No confundas esta actualización con el texto base del manual de 2024.",
+          "rememberUk": "Окреме офіційне оновлення (DGT, перевірено в листопаді 2026 року): DGT вказує, що для руху VMP мають мати свідоцтво про реєстрацію та ідентифікаційну наліпку. Не плутай це оновлення з базовим текстом посібника 2024 року."
+        },
+        {
+          "title": "Personas: conductor y peatón",
+          "titleUk": "Люди: водій і пішохід",
+          "textEs": "Conductor: persona que conduce un vehículo; también quien controla los mandos añadidos en un vehículo de autoescuela. Peatón: persona que va andando por la acera o carretera. El manual también considera peatones a quienes empujan un carrito, una silla de ruedas u otro vehículo pequeño sin motor; llevan andando un ciclo o ciclomotor de dos ruedas; o van en silla de ruedas.",
+          "textUk": "Водій — людина, яка керує транспортним засобом; також людина, яка контролює додаткові органи керування в навчальному автомобілі. Пішохід — людина, яка йде тротуаром або дорогою. Посібник також відносить до пішоходів тих, хто штовхає дитячий візок, крісло колісне чи інший невеликий транспорт без двигуна; веде поруч двоколісний велосипед або мопед; чи пересувається в кріслі колісному.",
+          "rememberEs": "Si una persona baja y lleva andando su bicicleta o ciclomotor de dos ruedas, el manual la incluye entre los peatones.",
+          "rememberUk": "Якщо людина йде пішки та веде поруч велосипед або двоколісний мопед, посібник відносить її до пішоходів."
+        },
+        {
+          "title": "Titular y conductor habitual",
+          "titleUk": "Власник і звичайний водій",
+          "textEs": "Titular del vehículo: persona a cuyo nombre está registrado oficialmente el vehículo. Debe llevar la documentación que acredita la titularidad y mostrarla a las autoridades cuando se la pidan. El manual señala que es responsable de que no conduzca el vehículo una persona sin el permiso necesario. Conductor habitual: persona que suele conducir el vehículo aunque no sea su titular; necesita el permiso adecuado y el titular la autoriza como conductor habitual.",
+          "textUk": "Власник транспортного засобу — людина, на ім’я якої транспорт офіційно зареєстровано. Вона має мати документи, що підтверджують власність, і показувати їх уповноваженим органам на вимогу. Посібник зазначає, що власник відповідає за те, щоб транспортом не керувала людина без потрібного посвідчення. Звичайний водій — людина, яка регулярно керує транспортом, навіть якщо не є власником; їй потрібне відповідне посвідчення, а власник уповноважує її як звичайного водія.",
+          "rememberEs": "Titular = registrado a su nombre. Conductor habitual = quien suele conducirlo y está autorizado.",
+          "rememberUk": "Власник = зареєстрований на його ім’я. Звичайний водій = той, хто регулярно керує транспортом і має відповідний дозвіл."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Documentación",
+      "subtitle": "Permisos y documentos del vehículo",
+      "subtitleEn": "Licences and vehicle documents",
+      "summaryEs": "Repasa el permiso de conducir, el permiso de circulación, la tarjeta ITV y el seguro obligatorio. Comprueba qué documento acredita cada cosa.",
+      "summaryEn": "Review the driving licence, vehicle registration certificate, ITV inspection card and compulsory insurance. Know what each document proves.",
+      "summaryUk": "Повтори водійське посвідчення, реєстраційний документ автомобіля, картку ITV та обов’язкове страхування. Розумій, що підтверджує кожен документ.",
+      "outline": [
+        "Permiso de conducir: tipos, puntos, conductores noveles y renovación",
+        "Permiso de circulación y datos del vehículo",
+        "Tarjeta ITV, inspecciones y resultados",
+        "Seguro obligatorio de responsabilidad civil"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "El estado del conductor",
+      "subtitle": "Alcohol, drogas, fatiga y atención",
+      "subtitleEn": "Alcohol, drugs, fatigue and attention",
+      "summaryEs": "El estado físico y mental influye en la conducción. Alcohol, drogas, sueño, fatiga, estrés y algunos medicamentos pueden reducir la capacidad de reaccionar.",
+      "summaryEn": "Physical and mental condition affects driving. Alcohol, drugs, sleepiness, fatigue, stress and some medicines can reduce reaction ability.",
+      "summaryUk": "Фізичний і психічний стан впливає на керування. Алкоголь, наркотики, сонливість, втома, стрес і деякі ліки можуть погіршувати реакцію.",
+      "outline": [
+        "Estado físico, mental y psíquico",
+        "Fatiga y somnolencia",
+        "Alcohol, drogas, enfermedades y medicamentos",
+        "Alimentación y ropa adecuada",
+        "Distracciones: fumar, móvil y navegador GPS"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Obligaciones de conductores y peatones",
+      "subtitle": "Responsabilidad y convivencia vial",
+      "subtitleEn": "Responsibilities and sharing the road",
+      "summaryEs": "Todos los usuarios deben actuar con prudencia, respetar las señales y evitar crear peligro. Las obligaciones dependen de cómo se desplaza cada usuario.",
+      "summaryEn": "All road users must act carefully, obey signs and avoid creating danger. Duties depend on the user and how they travel.",
+      "summaryUk": "Усі учасники мають діяти обережно, дотримуватися знаків і не створювати небезпеку. Обов’язки залежать від виду учасника руху.",
+      "outline": [
+        "Seguridad en la carretera",
+        "Obligaciones generales de los conductores",
+        "Reglas para vehículos de dos o tres ruedas y vehículos especiales",
+        "Obligaciones de peatones",
+        "Vehículos de movilidad personal y animales en carretera"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Dispositivos de seguridad en el vehículo",
+      "subtitle": "Cinturón, sistemas infantiles y casco",
+      "subtitleEn": "Seat belts, child restraints and helmets",
+      "summaryEs": "Los sistemas de seguridad reducen lesiones. Deben utilizarse correctamente y adaptarse a la persona y al vehículo.",
+      "summaryEn": "Safety equipment reduces injury. It must be used correctly and suit the person and vehicle.",
+      "summaryUk": "Засоби безпеки зменшують травми. Їх потрібно правильно використовувати й підбирати відповідно до людини та транспортного засобу.",
+      "outline": [
+        "Importancia de la seguridad y accidentes de tráfico",
+        "Seguridad activa: alumbrado, frenos, ruedas y otros sistemas",
+        "Seguridad pasiva: chasis, carrocería, cinturón, airbags, reposacabezas y casco"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Elementos del vehículo y normas para usarlos",
+      "subtitle": "Mandos, neumáticos y elementos obligatorios",
+      "subtitleEn": "Controls, tyres and required equipment",
+      "summaryEs": "Conoce los mandos, espejos, neumáticos y elementos del vehículo. Antes de circular, ajusta el puesto de conducción y comprueba que el vehículo está en condiciones seguras.",
+      "summaryEn": "Know the controls, mirrors, tyres and vehicle equipment. Before moving, adjust your driving position and check the vehicle is safe.",
+      "summaryUk": "Знай органи керування, дзеркала, шини та обладнання. Перед початком руху налаштуй місце водія й перевір безпечний стан автомобіля.",
+      "outline": [
+        "Mandos del vehículo",
+        "Visibilidad: limpiaparabrisas, lavaparabrisas, luneta térmica y retrovisores",
+        "Reglas para turismos, furgonetas, camiones y motocicletas",
+        "Sistemas que mejoran la conducción y la seguridad"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Sistema de luces de los vehículos",
+      "subtitle": "Luces para ver y ser visto",
+      "subtitleEn": "Lights to see and be seen",
+      "summaryEs": "Las luces permiten ver, ser visto y advertir maniobras. Su uso depende de la vía, la visibilidad y las circunstancias. No confundas alumbrado con señalización.",
+      "summaryEn": "Lights help you see, be seen and signal manoeuvres. Their use depends on the road, visibility and circumstances. Distinguish lighting from signalling.",
+      "summaryUk": "Світло допомагає бачити, бути помітним і повідомляти про маневри. Використання залежить від дороги, видимості та обставин. Розрізняй освітлення і сигнали.",
+      "outline": [
+        "Normas generales de alumbrado",
+        "Luces de posición y estacionamiento; gálibo",
+        "Luz de carretera, cruce y antiniebla",
+        "Catadióptricos e indicadores de dirección",
+        "Emergencia, frenado, tercera luz de freno y marcha atrás",
+        "Señales acústicas"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Señales de circulación",
+      "subtitle": "Jerarquía, señales y semáforos",
+      "subtitleEn": "Sign hierarchy, signs and traffic lights",
+      "summaryEs": "Aprende señales de agentes, circunstanciales, semáforos, señales verticales y marcas viales. Si las indicaciones se contradicen, aplica la jerarquía normativa.",
+      "summaryEn": "Learn traffic officers’ signals, temporary signs, traffic lights, vertical signs and road markings. If instructions conflict, follow the legal hierarchy.",
+      "summaryUk": "Вивчи сигнали регулювальників, тимчасові знаки, світлофори, вертикальні знаки та дорожню розмітку. За суперечності діє встановлена ієрархія.",
+      "outline": [
+        "Normas generales y tipos de señales",
+        "Agentes de tráfico y señales temporales",
+        "Semáforos",
+        "Señales de peligro, reglamentación e indicación",
+        "Líneas y marcas blancas y de colores"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "La vía",
+      "subtitle": "Tipos de vía, carriles y arcenes",
+      "subtitleEn": "Road types, lanes and shoulders",
+      "summaryEs": "Identifica calzada, carril, arcén, intersección, travesía y vías urbanas e interurbanas. La posición correcta depende del tipo de vía y de la maniobra.",
+      "summaryEn": "Identify carriageway, lane, shoulder, junction, built-up stretch and urban/interurban roads. Correct positioning depends on road type and manoeuvre.",
+      "summaryUk": "Розрізняй проїзну частину, смугу, узбіччя, перехрестя, ділянку дороги в населеному пункті та міські/позаміські дороги.",
+      "outline": [
+        "Partes de la vía y otras zonas",
+        "Dirección y sentido",
+        "Tipos de vía y colores que indican el estado de la carretera",
+        "Uso de carriles, carriles reservados y especiales",
+        "Arcén",
+        "Emergencias en autopistas y autovías"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Velocidad y distancias",
+      "subtitle": "Velocidad adecuada y distancia de seguridad",
+      "subtitleEn": "Safe speed and following distance",
+      "summaryEs": "La velocidad debe adaptarse a límites, tráfico, visibilidad, adherencia y estado del conductor. La distancia de seguridad debe permitir reaccionar y detenerse sin colisionar.",
+      "summaryEn": "Adapt speed to limits, traffic, visibility, grip and driver condition. Keep enough distance to react and stop without collision.",
+      "summaryUk": "Швидкість адаптуй до обмежень, трафіку, видимості, зчеплення й стану водія. Дотримуйся дистанції, щоб встигнути зреагувати й зупинитися.",
+      "outline": [
+        "Velocidad máxima, mínima, inadecuada y adecuada",
+        "Límites fuera y dentro de poblado",
+        "Por qué existen límites de velocidad",
+        "Distancia de reacción, frenado y detención",
+        "Separación lateral"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Maniobras",
+      "subtitle": "Incorporación, cambio de carril y adelantamiento",
+      "subtitleEn": "Joining, lane changes and overtaking",
+      "summaryEs": "Antes de maniobrar: observar, señalizar con antelación y comprobar que la maniobra puede hacerse sin peligro. La señalización no concede prioridad.",
+      "summaryEn": "Before manoeuvring: observe, signal in advance and ensure it is safe. Signalling does not give you priority.",
+      "summaryUk": "Перед маневром: спостерігай, завчасно подай сигнал і переконайся, що маневр безпечний. Увімкнений покажчик повороту не дає переваги.",
+      "outline": [
+        "Regla R.S.M.: retrovisor, señal y maniobra",
+        "Incorporación y cambio de carril",
+        "Adelantamiento: por dónde, pasos y obligaciones",
+        "Situaciones en que está prohibido adelantar",
+        "Cambio de dirección y de sentido",
+        "Marcha atrás",
+        "Parada y estacionamiento: diferencias, lugares y riesgos"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Normas de preferencia para circular",
+      "subtitle": "Prioridad en cruces y situaciones especiales",
+      "subtitleEn": "Priority at junctions and special situations",
+      "summaryEs": "La prioridad depende de señales, semáforos, agentes y reglas generales. Reduce la velocidad y prepárate para detenerte cuando no esté claro quién pasa primero.",
+      "summaryEn": "Priority depends on signs, lights, officers and general rules. Slow down and be ready to stop when priority is unclear.",
+      "summaryUk": "Перевага визначається знаками, світлофорами, регулювальниками та загальними правилами. Якщо черговість незрозуміла, зменш швидкість і будь готовий зупинитися.",
+      "outline": [
+        "Normas generales de prioridad y cesión del paso",
+        "Cruces y lugares concretos",
+        "Prioridad de ciclistas, peatones y animales",
+        "Vehículos de urgencia",
+        "Pasos estrechos con señales, sin señales y en cuesta",
+        "Pasos a nivel y puentes móviles",
+        "Paradas y emergencias en túneles"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Transportar personas y cargas",
+      "subtitle": "Ocupantes, equipaje y carga segura",
+      "subtitleEn": "Passengers, luggage and secure loads",
+      "summaryEs": "No transportes más personas de las plazas autorizadas. La carga debe ir bien colocada y sujeta, sin ocultar luces, matrícula ni visión, y respetando límites del vehículo.",
+      "summaryEn": "Do not carry more people than authorised seats. Secure loads so they do not block lights, the number plate or visibility, and respect vehicle limits.",
+      "summaryUk": "Не перевозь більше людей, ніж передбачено місцями. Вантаж має бути закріплений і не закривати світло, номерний знак чи огляд.",
+      "outline": [
+        "Normas generales para personas, animales y cargas",
+        "Transporte de personas y equipaje/carga",
+        "Medidas permitidas para vehículos y cargas",
+        "Señalización de carga que sobresale",
+        "Carga y descarga"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Conducir de forma segura",
+      "subtitle": "Anticipación y conducción defensiva",
+      "subtitleEn": "Anticipation and defensive driving",
+      "summaryEs": "Mira lejos, observa los laterales, mantén espacio de seguridad y anticipa errores de otros usuarios. Evita distracciones y adapta la conducción a las condiciones.",
+      "summaryEn": "Look ahead, scan the sides, keep a safety margin and anticipate other users’ mistakes. Avoid distractions and adapt driving to conditions.",
+      "summaryUk": "Дивись далеко вперед, контролюй боки, залишай запас безпеки та передбачай помилки інших. Уникай відволікань і адаптуй керування до умов.",
+      "outline": [
+        "Conducción en carretera y curvas",
+        "Zonas de obras",
+        "Conducción por la noche",
+        "Conducción con lluvia, nieve, hielo y niebla",
+        "Polvo, humo, viento y calor"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Mecánica y mantenimiento del vehículo",
+      "subtitle": "Neumáticos, frenos y mantenimiento",
+      "subtitleEn": "Tyres, brakes and maintenance",
+      "summaryEs": "El mantenimiento preventivo ayuda a evitar averías y accidentes. Presta atención a neumáticos, frenos, dirección, niveles, limpiaparabrisas y testigos del cuadro.",
+      "summaryEn": "Preventive maintenance helps avoid breakdowns and crashes. Check tyres, brakes, steering, fluid levels, wipers and dashboard warnings.",
+      "summaryUk": "Профілактичне обслуговування допомагає уникнути поломок і аварій. Контролюй шини, гальма, кермо, рівні рідин, двірники та індикатори панелі.",
+      "outline": [
+        "Motor y sistemas del vehículo",
+        "Aceite y lubricación",
+        "Refrigeración del motor",
+        "Sistema eléctrico y batería",
+        "Neumáticos, frenos y dirección",
+        "Revisiones, averías y mantenimiento preventivo"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Accidentes de tráfico",
+      "subtitle": "Proteger, avisar y socorrer",
+      "subtitleEn": "Protect, alert and assist",
+      "summaryEs": "Ante un accidente, evita nuevos riesgos, avisa a los servicios de emergencia y ayuda sin exponerte ni mover innecesariamente a una persona lesionada.",
+      "summaryEn": "At a crash, prevent further danger, alert emergency services and help without exposing yourself or moving an injured person unnecessarily.",
+      "summaryUk": "Після ДТП не допускай нової небезпеки, виклич екстрені служби та допомагай, не наражаючи себе на ризик і без зайвого переміщення травмованих.",
+      "outline": [
+        "Factores y tipos de accidentes de tráfico",
+        "Cómo actuar y proteger la zona",
+        "Aviso a los servicios de emergencia",
+        "Primeros auxilios y ayuda a las personas heridas",
+        "Conductas que pueden agravar las lesiones"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Conducción preventiva y eficiente",
+      "subtitle": "Prevenir riesgos y ahorrar combustible",
+      "subtitleEn": "Prevent risks and drive efficiently",
+      "summaryEs": "Anticipa, mantén una velocidad uniforme cuando sea posible, evita aceleraciones y frenadas innecesarias y cuida el vehículo. La seguridad siempre tiene prioridad sobre el ahorro.",
+      "summaryEn": "Anticipate hazards, maintain a steady speed where possible, avoid unnecessary acceleration and braking, and maintain the vehicle. Safety comes before efficiency.",
+      "summaryUk": "Передбачай ризики, підтримуй рівномірну швидкість, уникай зайвих розгонів і гальмувань та обслуговуй авто. Безпека важливіша за економію.",
+      "outline": [
+        "Conducción preventiva y percepción del riesgo",
+        "Anticipación y espacio de seguridad",
+        "Conducción eficiente y consumo",
+        "Uso responsable del vehículo y reducción de emisiones"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Anexo: permiso por puntos",
+      "subtitle": "Puntos, infracciones y recuperación",
+      "subtitleEn": "Points, offences and recovery",
+      "summaryEs": "El sistema de puntos vincula determinadas infracciones con la pérdida de puntos. La cantidad y los procedimientos deben comprobarse en la normativa oficial vigente.",
+      "summaryEn": "The points system links certain offences to points loss. Exact values and procedures must be checked against current official rules.",
+      "summaryUk": "Система балів пов’язує певні порушення зі зняттям балів. Точні значення та процедури слід перевіряти за чинними офіційними правилами.",
+      "outline": [
+        "Saldo de puntos de cada conductor",
+        "Pérdida de puntos por infracciones",
+        "Recuperación de puntos",
+        "Pérdida de vigencia del permiso"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topic": 2,
+      "question": "¿Qué documento acredita que un vehículo está autorizado a circular?",
+      "options": [
+        "El permiso de circulación",
+        "El recibo de una compra",
+        "El permiso de conducir del acompañante"
+      ],
+      "correct": 0,
+      "explanationEs": "El permiso de circulación identifica el vehículo y acredita su autorización administrativa para circular.",
+      "explanationUk": "Свідоцтво про реєстрацію транспортного засобу підтверджує його адміністративний допуск до руху."
+    },
+    {
+      "topic": 3,
+      "question": "Si un medicamento puede causar somnolencia, ¿qué debes hacer?",
+      "options": [
+        "Conducir más rápido para acabar antes",
+        "Consultar sus efectos y no conducir si afecta a la capacidad",
+        "Tomar café y conducir siempre"
+      ],
+      "correct": 1,
+      "explanationEs": "Algunos medicamentos afectan a la atención y a los reflejos. Sigue el prospecto y el consejo sanitario.",
+      "explanationUk": "Деякі ліки впливають на увагу та реакцію. Дотримуйся інструкції й рекомендацій медичного фахівця."
+    },
+    {
+      "topic": 4,
+      "question": "¿Qué debe hacer un usuario de la vía?",
+      "options": [
+        "Actuar con prudencia y evitar crear peligro",
+        "Confiar en que los demás siempre cederán",
+        "Ignorar las señales si conoce la ruta"
+      ],
+      "correct": 0,
+      "explanationEs": "La prudencia y el respeto a las normas protegen a todos los usuarios.",
+      "explanationUk": "Обережність і дотримання правил захищають усіх учасників руху."
+    },
+    {
+      "topic": 5,
+      "question": "¿Para qué sirve el cinturón de seguridad?",
+      "options": [
+        "Solo para evitar multas",
+        "Para reducir el riesgo de lesiones en una colisión",
+        "Solo en carretera"
+      ],
+      "correct": 1,
+      "explanationEs": "El cinturón reduce el riesgo de lesiones y debe utilizarse correctamente.",
+      "explanationUk": "Ремінь безпеки зменшує ризик травм і має бути правильно пристебнутий."
+    },
+    {
+      "topic": 6,
+      "question": "Antes de iniciar la marcha, ¿qué conviene hacer?",
+      "options": [
+        "Ajustar asiento y espejos y comprobar el vehículo",
+        "Ajustar los espejos después de arrancar en marcha",
+        "No revisar nada si el trayecto es corto"
+      ],
+      "correct": 0,
+      "explanationEs": "Una posición correcta y una comprobación básica ayudan a mantener el control y la visibilidad.",
+      "explanationUk": "Правильне положення й базова перевірка допомагають зберігати контроль та огляд."
+    },
+    {
+      "topic": 7,
+      "question": "¿Cuál es una función de las luces del vehículo?",
+      "options": [
+        "Solo decorar el vehículo",
+        "Ver y ser visto",
+        "Sustituir siempre los intermitentes"
+      ],
+      "correct": 1,
+      "explanationEs": "El alumbrado mejora la visibilidad; los indicadores se utilizan para comunicar maniobras.",
+      "explanationUk": "Освітлення покращує видимість, а покажчики використовують для повідомлення про маневри."
+    },
+    {
+      "topic": 8,
+      "question": "Si un agente da una orden distinta a una señal vertical, ¿qué debes obedecer?",
+      "options": [
+        "La señal vertical siempre",
+        "La orden del agente",
+        "La señal que resulte más cómoda"
+      ],
+      "correct": 1,
+      "explanationEs": "Las señales y órdenes de los agentes tienen prioridad sobre otras señales de circulación.",
+      "explanationUk": "Сигнали й накази регулювальника мають пріоритет над іншими дорожніми сигналами."
+    },
+    {
+      "topic": 9,
+      "question": "¿Qué es el arcén?",
+      "options": [
+        "Una parte longitudinal contigua a la calzada, no destinada normalmente a circular",
+        "Una plaza de aparcamiento",
+        "Un carril reservado siempre a turismos"
+      ],
+      "correct": 0,
+      "explanationEs": "El arcén es distinto de los carriles de la calzada; su uso está limitado por las normas.",
+      "explanationUk": "Узбіччя відрізняється від смуг проїзної частини; його використання обмежене правилами."
+    },
+    {
+      "topic": 10,
+      "question": "¿Cómo debes elegir la velocidad?",
+      "options": [
+        "Solo según la potencia del coche",
+        "Según límites y condiciones de la vía y del tráfico",
+        "Siempre al máximo permitido"
+      ],
+      "correct": 1,
+      "explanationEs": "El límite no significa que esa velocidad sea segura en cualquier condición.",
+      "explanationUk": "Дозволений максимум не означає, що така швидкість безпечна за будь-яких умов."
+    },
+    {
+      "topic": 11,
+      "question": "¿Tener el intermitente encendido te da prioridad?",
+      "options": [
+        "Sí, siempre",
+        "No, debes comprobar que la maniobra es segura",
+        "Sí, si señalizas con mucha antelación"
+      ],
+      "correct": 1,
+      "explanationEs": "El indicador comunica la intención, pero no concede prioridad ni elimina la obligación de comprobar.",
+      "explanationUk": "Покажчик повідомляє про намір, але не дає переваги й не скасовує перевірку безпеки."
+    },
+    {
+      "topic": 12,
+      "question": "Al acercarte a un cruce sin tener clara la prioridad, ¿qué es prudente?",
+      "options": [
+        "Acelerar para pasar primero",
+        "Reducir la velocidad y estar preparado para detenerte",
+        "Seguir sin mirar"
+      ],
+      "correct": 1,
+      "explanationEs": "Debes observar las señales y la situación, y no entrar creando peligro.",
+      "explanationUk": "Потрібно перевірити знаки й ситуацію та не в’їжджати на перехрестя, створюючи небезпеку."
+    },
+    {
+      "topic": 13,
+      "question": "¿Cómo debe transportarse la carga?",
+      "options": [
+        "Suelta para poder moverla",
+        "Bien colocada y sujeta, sin impedir la visión ni ocultar señales",
+        "Sobre cualquier asiento sin asegurar"
+      ],
+      "correct": 1,
+      "explanationEs": "La carga debe quedar asegurada y no comprometer la estabilidad, visibilidad o señalización.",
+      "explanationUk": "Вантаж потрібно закріпити так, щоб він не погіршував стійкість, огляд або видимість сигналів."
+    },
+    {
+      "topic": 14,
+      "question": "¿Qué es conducir de forma preventiva?",
+      "options": [
+        "Anticipar riesgos y dejar espacio de seguridad",
+        "Mirar solo al vehículo de delante",
+        "Confiar en que los demás no cometerán errores"
+      ],
+      "correct": 0,
+      "explanationEs": "La conducción preventiva busca detectar riesgos antes de que se conviertan en una emergencia.",
+      "explanationUk": "Превентивне керування допомагає помітити ризики до того, як вони стануть аварійною ситуацією."
+    },
+    {
+      "topic": 15,
+      "question": "¿Por qué es importante revisar los neumáticos?",
+      "options": [
+        "Solo para reducir el ruido",
+        "Porque influyen en adherencia, frenado y estabilidad",
+        "Solo para superar la ITV"
+      ],
+      "correct": 1,
+      "explanationEs": "El estado y la presión de los neumáticos afectan al control y a la seguridad.",
+      "explanationUk": "Стан і тиск шин впливають на керованість і безпеку."
+    },
+    {
+      "topic": 16,
+      "question": "Ante un accidente, ¿cuál es la primera prioridad?",
+      "options": [
+        "Proteger la zona y evitar otro accidente",
+        "Grabar un vídeo",
+        "Mover siempre a todos los heridos"
+      ],
+      "correct": 0,
+      "explanationEs": "Evita exponerte y evita que ocurra otro accidente antes de ayudar y avisar.",
+      "explanationUk": "Не наражай себе на небезпеку й не допускай повторної аварії перед допомогою та викликом служб."
+    },
+    {
+      "topic": 17,
+      "question": "¿Qué práctica suele favorecer una conducción eficiente y segura?",
+      "options": [
+        "Acelerar y frenar bruscamente",
+        "Anticipar y evitar aceleraciones innecesarias",
+        "Circular siempre en punto muerto"
+      ],
+      "correct": 1,
+      "explanationEs": "Anticipar el tráfico reduce maniobras bruscas; nunca sacrifiques la seguridad por ahorrar combustible.",
+      "explanationUk": "Передбачення руху зменшує різкі маневри; не жертвуй безпекою заради економії пального."
+    },
+    {
+      "topic": 18,
+      "question": "¿Dónde debes comprobar la cantidad actual de puntos y las reglas aplicables?",
+      "options": [
+        "En una publicación antigua sin fecha",
+        "En los recursos oficiales vigentes de la DGT",
+        "En comentarios anónimos"
+      ],
+      "correct": 1,
+      "explanationEs": "Las sanciones y los procedimientos pueden cambiar; usa la información oficial actualizada de la DGT.",
+      "explanationUk": "Штрафи й процедури можуть змінюватися; користуйся актуальною офіційною інформацією DGT."
+    },
+    {
+      "topic": 1,
+      "question": "Según el manual, ¿qué es un vehículo?",
+      "options": [
+        "Un aparato preparado para circular por vías y terrenos",
+        "Solo un automóvil con cuatro ruedas",
+        "Cualquier máquina que tenga motor"
+      ],
+      "correct": 0,
+      "explanationEs": "El manual define vehículo como un aparato preparado para circular por vías, calles, carreteras y terrenos de todo tipo.",
+      "explanationUk": "Посібник визначає транспортний засіб як пристрій, призначений для руху вулицями, дорогами та різними типами місцевості."
+    },
+    {
+      "topic": 1,
+      "question": "¿Cuál de estos ejemplos aparece entre los vehículos sin motor?",
+      "options": [
+        "Un remolque",
+        "Un autobús",
+        "Un tractor"
+      ],
+      "correct": 0,
+      "explanationEs": "El remolque aparece en la lista de vehículos sin motor del manual.",
+      "explanationUk": "Причіп входить до списку транспортних засобів без двигуна в посібнику."
+    },
+    {
+      "topic": 1,
+      "question": "¿Qué diferencia básica indica el manual entre remolque y semirremolque?",
+      "options": [
+        "El semirremolque se une directamente al vehículo tractor, sin eje propio en la descripción",
+        "El remolque siempre tiene motor",
+        "No existe ninguna diferencia"
+      ],
+      "correct": 0,
+      "explanationEs": "El manual explica que el remolque se engancha mediante un eje y que el semirremolque se une directamente al vehículo con motor, sin eje.",
+      "explanationUk": "Посібник пояснює, що причіп з’єднується через вісь, а напівпричіп приєднується безпосередньо до моторного транспортного засобу без осі."
+    },
+    {
+      "topic": 1,
+      "question": "¿Cuántos asientos como máximo puede tener un turismo, contando al conductor, según el PDF?",
+      "options": [
+        "5",
+        "9",
+        "12"
+      ],
+      "correct": 1,
+      "explanationEs": "El manual indica que el turismo puede tener como máximo nueve asientos contando el del conductor.",
+      "explanationUk": "Посібник зазначає, що легковий автомобіль може мати максимум дев’ять місць разом із водієм."
+    },
+    {
+      "topic": 1,
+      "question": "¿Qué vehículo describe el manual como destinado a transportar mercancías y con cabina y parte trasera diferenciadas?",
+      "options": [
+        "Camión",
+        "Turismo",
+        "Bicicleta"
+      ],
+      "correct": 0,
+      "explanationEs": "La descripción del camión distingue la cabina y la parte trasera para las mercancías.",
+      "explanationUk": "В описі вантажівки розрізняються кабіна та задня частина для вантажу."
+    },
+    {
+      "topic": 1,
+      "question": "¿Cuál es la velocidad máxima indicada en el PDF para el ciclomotor?",
+      "options": [
+        "25 km/h",
+        "45 km/h",
+        "90 km/h"
+      ],
+      "correct": 1,
+      "explanationEs": "El manual de 2024 indica una velocidad máxima de 45 km/h para el ciclomotor. Comprueba la definición legal vigente para el examen.",
+      "explanationUk": "Посібник 2024 року вказує максимальну швидкість мопеда 45 км/год. Перед іспитом перевір чинне юридичне визначення."
+    },
+    {
+      "topic": 1,
+      "question": "Según la definición del PDF, ¿qué velocidad de diseño puede tener un VMP?",
+      "options": [
+        "Entre 6 y 25 km/h",
+        "Entre 25 y 45 km/h",
+        "Más de 50 km/h"
+      ],
+      "correct": 0,
+      "explanationEs": "El PDF describe el VMP con una velocidad de diseño entre 6 y 25 km/h. La DGT publica requisitos posteriores sobre inscripción y etiqueta.",
+      "explanationUk": "PDF описує VMP із конструктивною швидкістю від 6 до 25 км/год. DGT пізніше опублікувала вимоги щодо реєстрації та наліпки."
+    },
+    {
+      "topic": 1,
+      "question": "¿Quién es peatón según el manual?",
+      "options": [
+        "Solo quien camina por una acera",
+        "También quien va andando y lleva consigo un ciclo de dos ruedas",
+        "Solo quien cruza por un paso de peatones"
+      ],
+      "correct": 1,
+      "explanationEs": "El manual incluye como peatón a quien va andando y lleva consigo un ciclo o un ciclomotor de dos ruedas.",
+      "explanationUk": "Посібник відносить до пішоходів людину, яка йде пішки й веде поруч двоколісний велосипед або мопед."
+    },
+    {
+      "topic": 1,
+      "question": "¿Quién es el titular del vehículo?",
+      "options": [
+        "Quien lo conduce más a menudo, necesariamente",
+        "La persona a cuyo nombre está registrado oficialmente",
+        "La persona que lo repara"
+      ],
+      "correct": 1,
+      "explanationEs": "El titular es la persona que figura a su nombre en el registro oficial correspondiente.",
+      "explanationUk": "Власник — це людина, на ім’я якої транспорт зареєстрований у відповідному офіційному реєстрі."
+    },
+    {
+      "topic": 1,
+      "question": "¿Puede el conductor habitual ser una persona distinta del titular?",
+      "options": [
+        "Sí, si está autorizada y tiene el permiso necesario",
+        "No, siempre deben ser la misma persona",
+        "Sí, aunque no tenga permiso"
+      ],
+      "correct": 0,
+      "explanationEs": "El manual define al conductor habitual como quien suele conducir aunque no sea titular; necesita el permiso adecuado y autorización del titular.",
+      "explanationUk": "Посібник визначає звичайного водія як того, хто регулярно керує транспортом, навіть якщо не є власником; потрібні відповідне посвідчення й дозвіл власника."
+    }
+  ]
+}
